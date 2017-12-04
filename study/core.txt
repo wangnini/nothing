@@ -1,0 +1,569 @@
+﻿黄金	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+黄酒	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+高速公路	nindustry	1000	null###nzsstock_name###null
+饲料	nindustryzx	1000	
+餐饮	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+银行	nindustry	1000	null###nzsstock_name|||nindustryzx###null
+铝	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+铜	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+铅锌	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+铁路运输	nindustry	1000	null###nzsstock_name###null
+铁矿石	nindustryzx	1000	
+钾肥	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+钢铁	nindustry	1000	null###nzsstock_name###null
+金属制品	nindustry	1000	null###nzsstock_name###null
+酒店	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+造纸	nindustry	1000	null###nzsstock_name###null
+通信运营	nindustry	1000	null###nzsstock_name###null
+超市	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+贸易	nindustry	1000	null###nzsstock_name###null
+调味品	nindustryzx	1000	
+证券	nindustry	1000	null###nzsstock_name###null
+计算机设备	nindustry	1000	null###nzsstock_name###null
+装修装饰	nindustry	1000	null###nzsstock_name###null
+葡萄酒	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+船舶制造	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+航运	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+航空运输	nindustry	1000	null###nzsstock_name###null
+航空装备	nindustry	1000	null###nzsstock_name###null
+航天装备	nindustry	1000	null###nzsstock_name###null
+肉制品	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+聚氨酯	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+综合	nindustry	1000	null###nzsstock_name###null
+纯碱	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+粘胶	nindustryzx	1000	
+粘胶	nindustry	1000	null###nzsstock_name###null
+磷肥	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+石油开采	nindustry	1000	null###nzsstock_name###null
+百货	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+畜禽养殖	nindustry	1000	null###nzsstock_name###null
+电机	nindustry	1000	null###nzsstock_name###null
+生物制品	nindustry	1000	null###nzsstock_name###null
+玻璃制造	nindustry	1000	null###nzsstock_name###null
+环保工程及服务	nindustry	1000	null###nzsstock_name###null
+特钢	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+物流	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+燃气	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+煤炭开采	nindustry	1000	null###nzsstock_name###null
+焦炭	nindustryzx	1000	
+火电	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+港口	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+涤纶	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+海洋捕捞	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+汽车零部件	nindustry	1000	null###nzsstock_name###null
+汽车服务	nindustry	1000	null###nzsstock_name###null
+水电	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+水泥制造	nindustry	1000	null###nzsstock_name###null
+水务	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+水产养殖	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+氯碱	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+氮肥	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+氨纶	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+民爆用品	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+橡胶制品	nindustryzx	1000	
+林业	nindustry	1000	null###nzsstock_name###null
+机场	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+无烟煤	nindustryzx	1000	
+无机盐	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+旅游综合	nindustry	1000	null###nzsstock_name###null
+房屋建设	nindustry	1000	null###nzsstock_name###null
+房地产开发	nindustry	1000	null###nzsstock_name###null
+平面媒体	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+家纺	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+客车	nindustryzx	1000	
+多元金融	nindustry	1000	null###nzsstock_name###null
+复合肥	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+塑料制品	nindustryzx	1000	
+地面兵装	nindustry	1000	null###nzsstock_name###null
+园林工程	nindustry	1000	null###nzsstock_name###null
+园区开发	nindustry	1000	null###nzsstock_name###null
+啤酒	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+印染	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+医药商业	nindustry	1000	null###nzsstock_name###null
+医疗服务	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+医疗器械	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+化学原料药	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+化学制剂	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+包装印刷	nindustry	1000	null###nzsstock_name###null
+动物保健	nindustry	1000	null###nzsstock_name###null
+农药	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+农业综合	nindustry	1000	null###nzsstock_name###null
+其他食品	nindustryzx	1000	
+其他采掘	nindustry	1000	null###nzsstock_name###null
+其他轻工制造	nindustry	1000	null###nzsstock_name###null
+其他电子	nindustry	1000	null###nzsstock_name###null
+其他建材	nindustry	1000	null###nzsstock_name###null
+其他化学原料	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+其他化学制品	nindustry	1000	null###nindustryzx|||nzsstock_name###null
+其他休闲服务	nindustry	1000	null###nzsstock_name###null
+其他交运设备	nindustry	1000	null###nzsstock_name###null
+公交	nindustryzx	1000	
+保险	nindustry	1000	null###nzsstock_name###null
+仪器仪表	nindustry	1000	null###nzsstock_name###null
+乳制品	nindustryzx	1000	
+中药饮片	nindustryzx	1000	
+中药	nindustry	1000	null###nzsstock_name###null
+中成药	nindustryzx	1000	
+黑色家电Ⅲ	nindustryzx	1000	null###null###CI332010
+高端及奢侈品	nindustryzx	1000	null###null###CI342010
+高压设备	nindustry	900123456	null###nzsstock_name###630401
+高低压设备	nindustry	900123456	null###nzsstock_name###6304
+饮料制造	nindustry	900123456	null###nzsstock_name###3403
+食品饮料	nindustry	900123456	null###nzsstock_name###340
+食品综合	nindustry	900123456	null###nzsstock_name###340404
+食品加工	nindustry	900123456	null###nzsstock_name###3404
+风电设备	nindustry	900123456	null###nzsstock_name###630302
+风电	nindustryzx	1000	null###null###CI273010
+鞋帽	nindustry	900123456	null###nzsstock_name###350205
+非银金融	nindustry	900123456	null###nzsstock_name###490
+非金属新材料	nindustry	900123456	null###nzsstock_name###240203
+非棉纺织品	nindustryzx	1000	null###null###CI341020
+集成电路	nindustry	900123456	null###nzsstock_name###270101
+陶瓷	nindustryzx	1000	null###null###CI243010
+长材	nindustryzx	1000	null###null###CI211010
+镍钴	nindustryzx	1000	null###null###CI122030
+锡锑	nindustryzx	1000	null###null###CI122040
+锅炉设备	nindustryzx	1000	null###null###CI263010
+锂	nindustry	900123456	null###nzsstock_name###240503
+铁路设备	nindustry	900123456	null###nzsstock_name###640501
+铁路建设	nindustry	900123456	null###nzsstock_name###620304
+铁路交通设备	nindustryzx	1000	null###null###CI264010
+铁路	nindustryzx	1000	null###null###CI501020
+钨	nindustry	900123456	null###nzsstock_name###240502
+钢结构	nindustry	900123456	null###nzsstock_name###620401
+金属非金属新材料	nindustry	900123456	null###nzsstock_name###2402
+金属新材料	nindustry	900123456	null###nzsstock_name###240201
+金属制品Ⅲ	nindustryzx	1000	null###null###CI266010
+重型机械	nindustry	900123456	null###nzsstock_name###640202
+采掘服务	nindustry	900123456	null###nzsstock_name###2104
+采掘	nindustry	900123456	null###nzsstock_name###210
+造纸Ⅲ	nindustryzx	1000	null###null###CI251010
+通用机械	nindustry	900123456	null###nzsstock_name###6401
+通信配套服务	nindustry	900123456	null###nzsstock_name###730203
+通信设备	nindustry	900123456	null###nzsstock_name###7302
+通信终端及配件	nindustryzx	1000	null###null###CI612030
+通信传输设备	nindustry	900123456	null###nzsstock_name###730202
+通信	nindustry	900123456	null###nzsstock_name###730
+连锁	nindustryzx	1000	null###null###CI311030
+运输设备	nindustry	900123456	null###nzsstock_name###6405
+辅料	nindustry	900123456	null###nzsstock_name###350105
+轻工制造	nindustry	900123456	null###nzsstock_name###360
+软饮料	nindustry	900123456	null###nzsstock_name###340304
+软件开发	nindustry	900123456	null###nzsstock_name###710201
+轮胎	nindustry	900123456	null###nzsstock_name###220601
+路桥施工	nindustry	900123456	null###nzsstock_name###620302
+起重运输设备	nindustryzx	1000	null###null###CI263030
+贸易流通	nindustryzx	1000	null###null###CI212030
+贸易Ⅲ	nindustryzx	1000	null###null###CI312010
+调味发酵品	nindustry	900123456	null###nzsstock_name###340402
+证券Ⅲ	nindustryzx	1000	null###null###CI411010
+计量仪表	nindustry	900123456	null###nzsstock_name###630203
+计算机应用	nindustry	900123456	null###nzsstock_name###7102
+计算机	nindustry	900123456	null###nzsstock_name###710
+视听器材	nindustry	900123456	null###nzsstock_name###3302
+被动元件	nindustry	900123456	null###nzsstock_name###270203
+行业应用软件	nindustryzx	1000	null###null###CI622020
+营销服务	nindustry	900123456	null###nzsstock_name###720201
+营销传播	nindustry	900123456	null###nzsstock_name###7202
+航空军工	nindustryzx	1000	null###null###CI281010
+航空	nindustryzx	1000	null###null###CI504010
+航天军工	nindustryzx	1000	null###null###CI281020
+自然景点	nindustry	900123456	null###nzsstock_name###460102
+耐火材料	nindustry	900123456	null###nzsstock_name###610301
+网络覆盖优化与运维	nindustryzx	1000	null###null###CI612040
+网络接配及塔设	nindustryzx	1000	null###null###CI612050
+综合电力设备商	nindustry	900123456	null###nzsstock_name###630301
+综合Ⅲ	nindustryzx	1000	null###null###CI701010
+绵纶	nindustryzx	1000	null###null###CI222050
+维纶	nindustry	900123456	null###nzsstock_name###220402
+终端设备	nindustry	900123456	null###nzsstock_name###730201
+线缆部件及其他	nindustry	900123456	null###nzsstock_name###630404
+线缆	nindustryzx	1000	null###null###CI612070
+纺织服装设备	nindustry	900123456	null###nzsstock_name###640206
+纺织服装机械	nindustryzx	1000	null###null###CI262020
+纺织服装	nindustry	900123456	null###nzsstock_name###350
+纺织化学用品	nindustry	900123456	null###nzsstock_name###220308
+纺织制造	nindustry	900123456	null###nzsstock_name###3501
+系统集成及IT咨询	nindustryzx	1000	null###null###CI623020
+系统设备	nindustryzx	1000	null###null###CI612060
+粮食种植	nindustry	900123456	null###nzsstock_name###110102
+粮油加工	nindustry	900123456	null###nzsstock_name###110502
+管材	nindustry	900123456	null###nzsstock_name###610302
+空调	nindustry	900123456	null###nzsstock_name###330102
+稀有金属Ⅲ	nindustryzx	1000	null###null###CI123010
+稀有金属	nindustry	900123456	null###nzsstock_name###2405
+稀土	nindustry	900123456	null###nzsstock_name###240501
+移动互联网服务	nindustry	900123456	null###nzsstock_name###720302
+种植业	nindustry	900123456	null###nzsstock_name###1101
+种子生产	nindustry	900123456	null###nzsstock_name###110101
+种子	nindustryzx	1000	null###null###CI371010
+磷化工及磷酸盐	nindustry	900123456	null###nzsstock_name###220312
+磷化工	nindustryzx	1000	null###null###CI223060
+磨具磨料	nindustry	900123456	null###nzsstock_name###640103
+磁性材料	nindustry	900123456	null###nzsstock_name###240202
+矿山冶金机械	nindustryzx	1000	null###null###CI262010
+石油贸易	nindustry	900123456	null###nzsstock_name###220103
+石油开采Ⅲ	nindustryzx	1000	null###null###CI101010
+石油化工	nindustry	900123456	null###nzsstock_name###2201
+石油加工	nindustry	900123456	null###nzsstock_name###220101
+白酒Ⅲ	nindustryzx	1000	null###null###CI361010
+白酒	nindustry	900123456	null###nzsstock_name###340301
+白色家电Ⅲ	nindustryzx	1000	null###null###CI331010
+白色家电	nindustry	900123456	null###nzsstock_name###3301
+畜牧养殖	nindustryzx	1000	null###null###CI372030
+男装	nindustry	900123456	null###nzsstock_name###350202
+电网自动化	nindustry	900123456	null###nzsstock_name###630201
+电网	nindustryzx	1000	null###null###CI201040
+电站设备Ⅲ	nindustryzx	1000	null###null###CI271010
+电源设备	nindustry	900123456	null###nzsstock_name###6303
+电气设备	nindustry	900123456	null###nzsstock_name###630
+电气自动化设备	nindustry	900123456	null###nzsstock_name###6302
+电影动画	nindustryzx	1000	null###null###CI631030
+电子零部件制造	nindustry	900123456	null###nzsstock_name###270502
+电子设备Ⅲ	nindustryzx	1000	null###null###CI602010
+电子系统组装	nindustry	900123456	null###nzsstock_name###270501
+电子制造	nindustry	900123456	null###nzsstock_name###2705
+电子	nindustry	900123456	null###nzsstock_name###270
+电力	nindustry	900123456	null###nzsstock_name###4101
+电信运营Ⅲ	nindustryzx	1000	null###null###CI611010
+生物医药Ⅲ	nindustryzx	1000	null###null###CI353010
+珠宝首饰	nindustry	900123456	null###nzsstock_name###360304
+玻纤	nindustry	900123456	null###nzsstock_name###220314
+玻璃Ⅲ	nindustryzx	1000	null###null###CI242010
+环保设备	nindustry	900123456	null###nzsstock_name###640205
+环保	nindustryzx	1000	null###null###CI202010
+燃机发电	nindustry	900123456	null###nzsstock_name###410103
+照明设备	nindustryzx	1000	null###null###CI334010
+焦炭加工	nindustry	900123456	null###nzsstock_name###210202
+热电	nindustry	900123456	null###nzsstock_name###410104
+炼焦煤	nindustryzx	1000	null###null###CI111030
+炼油	nindustryzx	1000	null###null###CI102010
+炭黑	nindustry	900123456	null###nzsstock_name###220603
+火电设备	nindustry	900123456	null###nzsstock_name###630304
+渔业	nindustry	900123456	null###nzsstock_name###1102
+涂料涂漆	nindustryzx	1000	null###null###CI224030
+涂料油漆油墨制造	nindustry	900123456	null###nzsstock_name###220305
+洗衣机	nindustry	900123456	null###nzsstock_name###330103
+油田服务Ⅲ	nindustryzx	1000	null###null###CI103010
+油气钻采服务	nindustry	900123456	null###nzsstock_name###210401
+油品销售及仓储	nindustryzx	1000	null###null###CI102040
+汽车零部件Ⅲ	nindustryzx	1000	null###null###CI303010
+汽车销售及服务Ⅲ	nindustryzx	1000	null###null###CI304010
+汽车整车	nindustry	900123456	null###nzsstock_name###2801
+汽车	nindustry	900123456	null###nzsstock_name###280
+水泥Ⅲ	nindustryzx	1000	null###null###CI241010
+水利工程	nindustry	900123456	null###nzsstock_name###620303
+氟化工及制冷剂	nindustry	900123456	null###nzsstock_name###220311
+氟化工	nindustryzx	1000	null###null###CI223040
+毛纺	nindustry	900123456	null###nzsstock_name###350101
+橡胶	nindustry	900123456	null###nzsstock_name###2206
+楼宇设备	nindustry	900123456	null###nzsstock_name###640204
+棉纺制品	nindustryzx	1000	null###null###CI341010
+棉纺	nindustry	900123456	null###nzsstock_name###350102
+核电	nindustryzx	1000	null###null###CI273020
+树脂	nindustryzx	1000	null###null###CI222060
+果蔬饮料	nindustryzx	1000	null###null###CI371020
+果蔬加工	nindustry	900123456	null###nzsstock_name###110501
+林木及加工	nindustryzx	1000	null###null###CI373010
+板材	nindustryzx	1000	null###null###CI211020
+机械设备	nindustry	900123456	null###nzsstock_name###640
+机械基础件	nindustry	900123456	null###nzsstock_name###640102
+机床设备	nindustryzx	1000	null###null###CI263020
+机床工具	nindustry	900123456	null###nzsstock_name###640101
+服装家纺	nindustry	900123456	null###nzsstock_name###3502
+服装及服饰制品	nindustryzx	1000	null###null###CI341040
+有色金属	nindustry	900123456	null###nzsstock_name###240
+有线电视网络	nindustry	900123456	null###nzsstock_name###720103
+有机硅	nindustryzx	1000	null###null###CI223050
+景点	nindustry	900123456	null###nzsstock_name###4601
+景区	nindustryzx	1000	null###null###CI321010
+普钢	nindustry	900123456	null###nzsstock_name###230101
+显示器件	nindustry	900123456	null###nzsstock_name###270301
+日用化学品	nindustryzx	1000	null###null###CI224010
+日用化学产品	nindustry	900123456	null###nzsstock_name###220304
+旅行社	nindustryzx	1000	null###null###CI321020
+新能源发电	nindustry	900123456	null###nzsstock_name###410105
+新型建材及非金属新材料	nindustryzx	1000	null###null###CI243020
+文娱用品	nindustry	900123456	null###nzsstock_name###360305
+文化传媒	nindustry	900123456	null###nzsstock_name###7201
+整合营销	nindustryzx	1000	null###null###CI631050
+改性塑料	nindustry	900123456	null###nzsstock_name###220503
+摩托车及其他Ⅲ	nindustryzx	1000	null###null###CI305010
+房地产服务Ⅲ	nindustryzx	1000	null###null###CI422010
+房地产	nindustry	900123456	null###nzsstock_name###430
+影视动漫	nindustry	900123456	null###nzsstock_name###720102
+彩电	nindustry	900123456	null###nzsstock_name###330201
+建筑装饰	nindustry	900123456	null###nzsstock_name###620
+建筑装修Ⅲ	nindustryzx	1000	null###null###CI232010
+建筑材料	nindustry	900123456	null###nzsstock_name###610
+建筑施工Ⅲ	nindustryzx	1000	null###null###CI231010
+广播电视	nindustryzx	1000	null###null###CI631020
+工程机械Ⅲ	nindustryzx	1000	null###null###CI261010
+工程机械	nindustry	900123456	null###nzsstock_name###640201
+工控自动化	nindustry	900123456	null###nzsstock_name###630202
+工业金属	nindustry	900123456	null###nzsstock_name###2403
+小家电Ⅲ	nindustryzx	1000	null###null###CI333010
+小家电	nindustry	900123456	null###nzsstock_name###330104
+家电零部件	nindustry	900123456	null###nzsstock_name###330105
+家用轻工	nindustry	900123456	null###nzsstock_name###3603
+家用电器	nindustry	900123456	null###nzsstock_name###330
+家具	nindustry	900123456	null###nzsstock_name###360302
+女装	nindustry	900123456	null###nzsstock_name###350203
+大众品牌	nindustryzx	1000	null###null###CI342020
+多业态零售	nindustry	900123456	null###nzsstock_name###450303
+增值服务Ⅲ	nindustryzx	1000	null###null###CI613010
+塑料	nindustry	900123456	null###nzsstock_name###2205
+基础软件及套装软件	nindustryzx	1000	null###null###CI622010
+基础建设	nindustry	900123456	null###nzsstock_name###6203
+基础件	nindustryzx	1000	null###null###CI263040
+城轨建设	nindustry	900123456	null###nzsstock_name###620301
+城商行	nindustryzx	1000	null###null###CI402020
+国际工程承包	nindustry	900123456	null###nzsstock_name###620403
+国防军工	nindustry	900123456	null###nzsstock_name###650
+国有银行Ⅲ	nindustryzx	1000	null###null###CI401010
+园区	nindustryzx	1000	null###null###CI421030
+商用载货车	nindustry	900123456	null###nzsstock_name###280102
+商用载客车	nindustry	900123456	null###nzsstock_name###280103
+商业贸易	nindustry	900123456	null###nzsstock_name###450
+商业物业经营	nindustry	900123456	null###nzsstock_name###4505
+商业地产	nindustryzx	1000	null###null###CI421020
+合成革	nindustry	900123456	null###nzsstock_name###220502
+印染化学品	nindustryzx	1000	null###null###CI224040
+印刷包装机械	nindustry	900123456	null###nzsstock_name###640208
+印刷	nindustryzx	1000	null###null###CI252010
+印制电路板	nindustry	900123456	null###nzsstock_name###270202
+卡车	nindustryzx	1000	null###null###CI302010
+半导体材料	nindustry	900123456	null###nzsstock_name###270103
+半导体Ⅲ	nindustryzx	1000	null###null###CI601010
+半导体	nindustry	900123456	null###nzsstock_name###2701
+医药生物	nindustry	900123456	null###nzsstock_name###370
+医药流通	nindustryzx	1000	null###null###CI354010
+化工	nindustry	900123456	null###nzsstock_name###220
+化学纤维	nindustry	900123456	null###nzsstock_name###2204
+化学工程	nindustry	900123456	null###nzsstock_name###620402
+化学原料	nindustry	900123456	null###nzsstock_name###2202
+化学制药	nindustry	900123456	null###nzsstock_name###3701
+化学制品	nindustry	900123456	null###nzsstock_name###2203
+包装	nindustryzx	1000	null###null###CI252020
+动物疫苗	nindustryzx	1000	null###null###CI372020
+动力设备	nindustryzx	1000	null###null###CI612010
+动力煤	nindustryzx	1000	null###null###CI111010
+制冷空调设备	nindustry	900123456	null###nzsstock_name###640105
+分立器件	nindustry	900123456	null###nzsstock_name###270102
+冶金矿采化工设备	nindustry	900123456	null###nzsstock_name###640203
+冰箱	nindustry	900123456	null###nzsstock_name###330101
+农用机械	nindustry	900123456	null###nzsstock_name###640207
+农林牧渔	nindustry	900123456	null###nzsstock_name###110
+农产品加工及流通	nindustryzx	1000	null###null###CI371030
+农产品加工	nindustry	900123456	null###nzsstock_name###1105
+内燃机	nindustry	900123456	null###nzsstock_name###640104
+其它通用机械	nindustry	900123456	null###nzsstock_name###640106
+其它视听器材	nindustry	900123456	null###nzsstock_name###330202
+其它电源设备	nindustry	900123456	null###nzsstock_name###630306
+其它专用机械	nindustry	900123456	null###nzsstock_name###640209
+其他饮料Ⅲ	nindustryzx	1000	null###null###CI362040
+其他非银金融	nindustryzx	1000	null###null###CI413020
+其他采掘服务	nindustry	900123456	null###nzsstock_name###210402
+其他酒类	nindustry	900123456	null###nzsstock_name###340303
+其他通用机械	nindustryzx	1000	null###null###CI263050
+其他运输设备	nindustryzx	1000	null###null###CI264030
+其他轻工Ⅲ	nindustryzx	1000	null###null###CI252030
+其他纺织	nindustry	900123456	null###nzsstock_name###350106
+其他纤维	nindustry	900123456	null###nzsstock_name###220404
+其他稀有小金属	nindustry	900123456	null###nzsstock_name###240504
+其他种植业	nindustry	900123456	null###nzsstock_name###110103
+其他石化	nindustryzx	1000	null###null###CI102050
+其他煤化工	nindustryzx	1000	null###null###CI112020
+其他橡胶制品	nindustry	900123456	null###nzsstockk_name###220602
+其他服装	nindustry	900123456	null###nzsstock_name###350207
+其他文化传媒	nindustry	900123456	null###nzsstock_name###720104
+其他家电	nindustryzx	1000	null###null###CI334020
+其他家用轻工	nindustry	900123456	null###nzsstock_name###360303
+其他塑料制品	nindustry	900123456	null###nzsstock_name###220501
+其他基础建设	nindustry	900123456	null###nzsstock_name###620305
+其他发电	nindustryzx	1000	null###null###CI201030
+其他农产品加工	nindustry	900123456	null###nzsstock_name###110504
+其他军工Ⅲ	nindustryzx	1000	null###null###CI283010
+其他元器件Ⅲ	nindustryzx	1000	null###null###CI603010
+其他互联网服务	nindustry	900123456	null###nzsstock_name###720303
+其他专用机械	nindustryzx	1000	null###null###CI262030
+其他专业工程	nindustry	900123456	null###nzsstock_name###620404
+其他	nindustryzx	1000	null###null###CI612020
+兵器兵装Ⅲ	nindustryzx	1000	null###null###CI282010
+IT服务	nindustryzx	1000	
+IT外包服务	nindustryzx	1000	
+PC及服务器硬件	nindustryzx	1000	
+氨纶	nindustryzx	1000	
+白酒Ⅱ	nindustryzx	1000	
+白酒Ⅲ	nindustryzx	1000	
+白色家电Ⅱ	nindustryzx	1000	
+百货	nindustryzx	1000	
+半导体Ⅱ	nindustryzx	1000	
+保险Ⅱ	nindustryzx	1000	
+保险Ⅲ	nindustryzx	1000	
+兵器兵装Ⅱ	nindustryzx	1000	
+玻璃Ⅱ	nindustryzx	1000	
+餐饮旅游	nindustryzx	1000	
+超市	nindustryzx	1000	
+乘用车Ⅱ	nindustryzx	1000	
+乘用车Ⅲ	nindustryzx	1000	
+传媒	nindustryzx	1000	
+传媒Ⅱ	nindustryzx	1000	
+船舶制造	nindustryzx	1000	
+纯碱	nindustryzx	1000	
+氮肥	nindustryzx	1000	
+涤纶	nindustryzx	1000	
+电力及公用事业	nindustryzx	1000	
+电力设备	nindustryzx	1000	
+电信运营Ⅱ	nindustryzx	1000	
+电信运营Ⅲ	nindustryzx	1000	
+电站设备Ⅱ	nindustryzx	1000	
+电子设备Ⅱ	nindustryzx	1000	
+电子元器件	nindustryzx	1000	
+二次设备	nindustryzx	1000	
+发电及电网	nindustryzx	1000	
+房地产服务Ⅱ	nindustryzx	1000	
+房地产开发管理	nindustryzx	1000	
+纺织服装	nindustryzx	1000	
+纺织制造	nindustryzx	1000	
+非棉纺织品	nindustryzx	1000	
+非银行金融	nindustryzx	1000	
+风电	nindustryzx	1000	
+钢铁	nindustryzx	1000	
+高端及奢侈品	nindustryzx	1000	
+工程机械Ⅱ	nindustryzx	1000	
+公交物流	nindustryzx	1000	
+公路	nindustryzx	1000	
+公路铁路	nindustryzx	1000	
+供热或其他	nindustryzx	1000	
+股份制银行	nindustryzx	1000	
+股份制与城商行	nindustryzx	1000	
+光伏	nindustryzx	1000	
+贵金属	nindustryzx	1000	
+锅炉设备	nindustryzx	1000	
+国有银行Ⅱ	nindustryzx	1000	
+行业应用软件	nindustryzx	1000	
+航空航天	nindustryzx	1000	
+航空机场	nindustryzx	1000	
+航运港口	nindustryzx	1000	
+合成纤维及树脂	nindustryzx	1000	
+黑色家电Ⅱ	nindustryzx	1000	
+环保及公用事业	nindustryzx	1000	
+黄金	nindustryzx	1000	
+黄酒	nindustryzx	1000	
+火电	nindustryzx	1000	
+机械	nindustryzx	1000	
+基础化工	nindustryzx	1000	
+计算机	nindustryzx	1000	
+计算机软件	nindustryzx	1000	
+计算机硬件	nindustryzx	1000	
+家电	nindustryzx	1000	
+家纺	nindustryzx	1000	
+钾肥	nindustryzx	1000	
+建材	nindustryzx	1000	
+建筑	nindustryzx	1000	
+建筑施工Ⅱ	nindustryzx	1000	
+建筑装修Ⅱ	nindustryzx	1000	
+焦炭	nindustryzx	1000	
+金属制品Ⅱ	nindustryzx	1000	
+金属制品Ⅲ	nindustryzx	1000	
+景区	nindustryzx	1000	
+景区和旅行社	nindustryzx	1000	
+酒店及餐饮	nindustryzx	1000	
+聚氨酯	nindustryzx	1000	
+客车	nindustryzx	1000	
+磷肥	nindustryzx	1000	
+零售	nindustryzx	1000	
+旅行社	nindustryzx	1000	
+铝	nindustryzx	1000	
+氯碱	nindustryzx	1000	
+贸易Ⅱ	nindustryzx	1000	
+贸易流通	nindustryzx	1000	
+煤炭	nindustryzx	1000	
+煤炭化工	nindustryzx	1000	
+煤炭开采洗选	nindustryzx	1000	
+民爆用品	nindustryzx	1000	
+摩托车及其他Ⅱ	nindustryzx	1000	
+牧业	nindustryzx	1000	
+镍钴	nindustryzx	1000	
+农业	nindustryzx	1000	
+农用化工	nindustryzx	1000	
+啤酒	nindustryzx	1000	
+品牌服饰	nindustryzx	1000	
+葡萄酒	nindustryzx	1000	
+其他钢铁	nindustryzx	1000	
+其他建材	nindustryzx	1000	
+其他军工Ⅱ	nindustryzx	1000	
+其他轻工Ⅱ	nindustryzx	1000	
+其他食品	nindustryzx	1000	
+其他医药医疗	nindustryzx	1000	
+其他饮料Ⅱ	nindustryzx	1000	
+其他元器件Ⅱ	nindustryzx	1000	
+其他专用设备	nindustryzx	1000	
+汽车零部件Ⅱ	nindustryzx	1000	
+汽车销售及服务Ⅱ	nindustryzx	1000	
+铅锌	nindustryzx	1000	
+轻工制造	nindustryzx	1000	
+燃气	nindustryzx	1000	
+肉制品	nindustryzx	1000	
+乳制品	nindustryzx	1000	
+商贸零售	nindustryzx	1000	
+商用车	nindustryzx	1000	
+生物医药Ⅱ	nindustryzx	1000	
+石油开采Ⅱ	nindustryzx	1000	
+石油开采Ⅲ	nindustryzx	1000	
+石油石化	nindustryzx	1000	
+食品	nindustryzx	1000	
+食品饮料	nindustryzx	1000	
+输变电设备	nindustryzx	1000	
+水电	nindustryzx	1000	
+水泥Ⅱ	nindustryzx	1000	
+水务	nindustryzx	1000	
+饲料	nindustryzx	1000	
+特钢	nindustryzx	1000	
+体育及户外	nindustryzx	1000	
+调味品	nindustryzx	1000	
+铁矿石	nindustryzx	1000	
+铁路交通设备	nindustryzx	1000	
+通信	nindustryzx	1000	
+通信设备制造	nindustryzx	1000	
+通信终端及配件	nindustryzx	1000	
+通用设备	nindustryzx	1000	
+铜	nindustryzx	1000	
+网络覆盖优化与运维	nindustryzx	1000	
+网络接配及塔设	nindustryzx	1000	
+无机盐	nindustryzx	1000	
+无烟煤	nindustryzx	1000	
+稀有金属Ⅱ	nindustryzx	1000	
+系统集成及IT咨询	nindustryzx	1000	
+系统设备	nindustryzx	1000	
+线缆	nindustryzx	1000	
+橡胶制品	nindustryzx	1000	
+小家电Ⅱ	nindustryzx	1000	
+新能源设备	nindustryzx	1000	
+信托	nindustryzx	1000	
+信托及其他	nindustryzx	1000	
+休闲快时尚	nindustryzx	1000	
+一次设备	nindustryzx	1000	
+医药	nindustryzx	1000	
+仪器仪表Ⅱ	nindustryzx	1000	
+仪器仪表Ⅲ	nindustryzx	1000	
+银行	nindustryzx	1000	
+印染	nindustryzx	1000	
+油田服务Ⅱ	nindustryzx	1000	
+造纸Ⅱ	nindustryzx	1000	
+造纸Ⅲ	nindustryzx	1000	
+增值服务Ⅱ	nindustryzx	1000	
+粘胶	nindustryzx	1000	
+长材	nindustryzx	1000	
+照明设备及其他	nindustryzx	1000	
+证券Ⅱ	nindustryzx	1000	
+证券Ⅲ	nindustryzx	1000	
+中药生产	nindustryzx	1000	
+住宅地产	nindustryzx	1000	
+专用计算机设备	nindustryzx	1000	
+专用汽车	nindustryzx	1000	
+综合	nindustryzx	1000	
+综合Ⅱ	nindustryzx	1000	
+综合Ⅲ	nindustryzx	1000	
+交通运输	nindustryzx	1000	
