@@ -15,3 +15,4 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 #26.利用递归方法求5!
 #递归公式：fn=fn_1*4!
+hahahahahah
